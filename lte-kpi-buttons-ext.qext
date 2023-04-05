@@ -1,0 +1,9 @@
+{
+  "name": "lte-kpi-buttons-ext",
+  "description": "Handle params in Qlik Sense visualization extensions.",
+  "icon": "extension",
+  "type": "visualization",
+  "version": "0.0.1",
+  "preview": "bootstrap.png",
+  "author": "Enricomaria Marchiori"
+}
